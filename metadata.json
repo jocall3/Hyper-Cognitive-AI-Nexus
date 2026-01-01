@@ -1,0 +1,8 @@
+{
+  "name": "Hyper-Cognitive AI Nexus",
+  "description": "A futuristic, multimodal AI chat interface featuring autonomous agent orchestration, real-time knowledge graph visualization, and simulated token rail payments, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
